@@ -134,7 +134,7 @@ body{
     color: white;
     height:100%;
     font-size: 16px;
-       border-radius:5px;
+    border-radius:5px;
     padding:5px;
     border:none;
     width:200px;
@@ -148,8 +148,7 @@ body{
 .features
 {
     padding:80px;
-    margin-left:15px;
-
+    margin-left:20px;
 }
 
 .items
@@ -191,7 +190,7 @@ body{
     background-image:url("images.jpg");
     background-size: cover;  
     margin-top:40px;
-    margin-left:25px;
+    margin-left:20px;
     border-radius: 40px;
 }
 
@@ -225,9 +224,10 @@ body{
 }
 
 .rect{
+    margin-left:40px;
     margin-top:8px;
     height: 70px;
-    width:90%;
+    width:95%;
     background-color: #3e3636;
     display: flex;
     justify-content: space-between;
